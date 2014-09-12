@@ -2,6 +2,8 @@
 
     <string name="app_name">SimpleRssReader</string>
 
-    <string name="Upgrade">Upgrade</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="network_error">Some network error has occurred</string>
+    <string name="no_network">No network available. Request will be completed when it appears.</string>
 
 </resources>
